@@ -1,6 +1,6 @@
 # STOR 390 Final Project
 
-Four files are stored in this repository:
+Five files are stored in this repository:
 
 1. Final Project.pdf - PDF document of the final project paper. This should be your first read.
 
