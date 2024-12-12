@@ -12,5 +12,5 @@ Ripke, S., Sanders, A. R., Kendler, K. S., Levinson, D. F., Sklar, P., Holmans, 
 
 4. Figure 1.png - Screenshot of the Schizophrenia Risk Assessment Tool used in Final Project paper
 
-5. Schizophrenia Risk Assessment Tool Folder - Contains the Schizophrenia Risk Assessment Tool Shiny app
+5. app.r - Contains the Schizophrenia Risk Assessment Tool Shiny app
 
